@@ -1,0 +1,61 @@
+.container{
+
+
+background-color: rgb(255, 255, 255);
+}
+.container-fluid{
+    background-color: rgb(156, 172, 139);
+    
+}
+.nav-link{
+
+    color: chartreuse;
+
+
+
+
+
+}
+.color{
+
+    background-color:#e4ecf0 ;
+    border: radius 10px; 
+}
+.k{
+
+height: 30; width: 40;
+}
+
+.button{
+    color: black;
+}
+.ct2{
+    background-color:#c9c2b6 ;
+    
+}
+.ct3{
+    background-color: rgb(108, 63, 212);
+}
+.ct4{
+    background-color: rgb(180, 192, 192);
+}
+.get-now-button{
+    color: rgb(250, 245, 245);
+    background-color: crimson;
+    border-top-left-radius:1 ;
+
+}
+.card{
+    border-radius: 20px p0px;
+    box-shadow: 5px 5px 10px rgb(66, 55, 39);
+    border-end-start-radius: 10px;
+}
+.container#subscribe{
+    background-color:#e4ecf0 ;
+    height: 300px;
+}
+.col-md-4#sub{
+    text-align: center;
+    height: 300px;
+    margin-top: 100px;
+}
